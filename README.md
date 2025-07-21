@@ -1,2 +1,2 @@
-# Urban-Sustainability-Indexing---Unsupervised-Machine-Learning
+# Urban-Sustainability-Indexing-Unsupervised-Machine-Learning
 For this project, unsupervised machine learning was applied to cluster global cities based on the data provided by GreenCityWatch. Using sustainability indicators, cities were grouped to reveal patterns in urban sustainability performance. This analysis helps identify which cities are most in need of support and funding for green transitions
